@@ -1,0 +1,5 @@
+# Simulation outputs and temporary files
+*.out
+*.vcd
+sim/*.out
+sim/*.vcd
